@@ -10,6 +10,7 @@
 <div align="center">
   <h2>Skills in nutshell</h3>
   <img alt="Javascript" src="https://img.shields.io/badge/-javascript-000?style=for-the-badge&logo=javascript">
+  <img alt="Javascript" src="https://img.shields.io/badge/-React.js-000?style=for-the-badge&logo=react">
   <img alt="Javascript" src="https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js">
   <img alt="Javascript" src="https://img.shields.io/badge/-Express.js-000?style=for-the-badge&logo=express">
   <img alt="Javascript" src="https://img.shields.io/badge/-Postgresql-000?style=for-the-badge&logo=postgresql">

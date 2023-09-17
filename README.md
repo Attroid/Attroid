@@ -4,7 +4,7 @@
 
 <div align="center">
   <h1>Attroid</h1>
-  <img src="https://readme-typing-svg.herokuapp.com?width=500&lines=Junior+fullstack+developer+from+Finland;Using+javascript+for+literally+everything" alt="typing svg">
+  <img src="https://readme-typing-svg.herokuapp.com?width=500&lines=Developer+from+Finland;Using+javascript+for+literally+everything" alt="typing svg">
 </div>
 
 <div align="center">
